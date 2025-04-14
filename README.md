@@ -11,7 +11,7 @@ I've been learning to code for almost 6 years, starting with JavaScript and HTML
   - A cross-platform auto-scheduling and resource-balancing application for human resources management for science fairs
   - A Rust-cargo crate for Differential Equations, Optimizations, and Linear Algebra, designed from the ground up for AI/ML in Rust (more to come soon!)
 * 🌍  I'm based in Colorado
-* ✉️  You can contact me at [rileybullock59@gmail.com](mailto:rileybullock59@gmail.com
+* ✉️  You can contact me at [rileybullock59@gmail.com](mailto:rileybullock59@gmail.com)
 
 ### Skills
 
